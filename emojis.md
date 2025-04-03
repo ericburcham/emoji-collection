@@ -409,7 +409,7 @@ angry troll
 ヽ༼ ಠ益ಠ ༽ﾉ
 ```
 
-fuck it
+eff it
 ```
 t(-_-t)
 ```
@@ -467,11 +467,6 @@ careless
 winnie the pooh
 ```
 ʕ •́؈•̀ ₎
-```
-
-winnie the pooh
-```
-ʕ •́؈•̀)
 ```
 
 questionable / dislike
@@ -579,7 +574,7 @@ barf
 (´ж｀ς)
 ```
 
-fuck off
+eff off
 ```
 (° ͜ʖ͡°)╭∩╮
 ```
@@ -594,7 +589,7 @@ exorcism
 ‍ح(•̀ж•́)ง †
 ```
 
-taking a dump / straining
+straining
 ```
 (⩾﹏⩽)
 ```
