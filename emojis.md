@@ -1,10 +1,10 @@
 
 [comment]: # (
- - When you see a line that looks like this:
- - &nbsp;<br>&nbsp;
- -
- - It is there to force GitHub's rendering engine to show an empty line between the prior emoji
- - and the label for the next emoji.
+ When you see a line that looks like this:
+ &nbsp;<br>&nbsp;
+ 
+ It is there to force GitHub's rendering engine to show an empty line between the prior emoji
+ and the label for the next emoji.
 )
 
 
