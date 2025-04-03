@@ -2,6 +2,7 @@
 
 ## Handshakes & Greetings
 
+```
 (づ￣ ³￣)づ━☆゜.*
 magical greeting
 
@@ -19,13 +20,15 @@ hugger
 
 ⊂(◉‿◉)つ
 kirby
+```
 
 ## High Fives & Fist Bumps
 
+```
 (￣▽￣)ノ"(^_^)
 high five
 
-(ง °_°)งﾉ(° -°ﾉ)
+(ง •̀_•́)งﾉ(° -°ﾉ)
 fist bump
 
 ( •̀ω•́ )✧
@@ -42,9 +45,11 @@ fight
 
 ☜(⌒▽⌒)☞
 excited pointing
+```
 
 ## Laughing & Smiling
 
+```
 (≧◡≦)
 big happy smile
 
@@ -86,9 +91,11 @@ fido
 
 ฅ^•ﻌ•^ฅ
 meow
+```
 
 ## Encouraging
 
+```
 (ง •̀_•́)ง
 you can do it!
 
@@ -106,9 +113,11 @@ sparkle of encouragement
 
 (•̀ᴗ•́)و ̑̑
 winning!
+```
 
 ## Celebratory
 
+```
 ♪♪ ヽ(ˇ∀ˇ )ゞ
 dancing with joy
 
@@ -150,9 +159,11 @@ whistling / music
 
 "ヽ(´▽｀)ノ"
 TGIF
+```
 
 ## Love & Affection
 
+```
 (♡˙︶˙♡)
 love in eyes
 
@@ -170,9 +181,11 @@ touchy feely
 
 -`ღ´-
 love
+```
 
 ## Concerned & Negative
 
+```
 ಠ_ಠ
 reddit disapproval face
 
@@ -308,6 +321,9 @@ creeper
 ⥀.⥀
 eye roll
 
+ح˚௰˚づ
+flying
+
 ♨_♨
 things that can't be unseen
 
@@ -356,7 +372,7 @@ fuck off
 ʕʘ̅͜ʘ̅ʔ
 smiley toast
 
-ง(•̀ж•́)ง †
+‍ح(•̀ж•́)ง †
 exorcism
 
 (⩾﹏⩽)
@@ -474,3 +490,4 @@ giggling
 
 ٩(^‿^)۶
 high energy celebration
+```
