@@ -25,7 +25,7 @@ kirby
 (￣▽￣)ノ"(^_^)
 high five
 
-(ง •̀_•́)งﾉ(° -°ﾉ)
+(ง °_°)งﾉ(° -°ﾉ)
 fist bump
 
 ( •̀ω•́ )✧
@@ -307,9 +307,6 @@ creeper
 
 ⥀.⥀
 eye roll
-
-ง˚௰˚づ
-flying
 
 ♨_♨
 things that can't be unseen
