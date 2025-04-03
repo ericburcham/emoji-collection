@@ -2,786 +2,786 @@
 
 ## Handshakes & Greetings
 
+magical greeting
 ```
 (づ￣ ³￣)づ━☆゜.*
 ```
-magical greeting
 
+excited greeting
 ```
 (つ≧▽≦)つ
 ```
-excited greeting
 
+tiny happy wave
 ```
 (੭ˊᵕˋ)੭
 ```
-tiny happy wave
 
+stranger danger
 ```
 (づ｡◕‿‿◕｡)づ
 ```
-stranger danger
 
+hugger
 ```
 (づ￣ ³￣)づ
 ```
-hugger
 
+kirby
 ```
 ⊂(◉‿◉)つ
 ```
-kirby
 
 ## High Fives & Fist Bumps
 
+high five
 ```
 (￣▽￣)ノ"(^_^)
 ```
-high five
 
+fist bump
 ```
 (ง •̀_•́)งﾉ(° -°ﾉ)
 ```
-fist bump
 
+victory
 ```
 ( •̀ω•́ )✧
 ```
-victory
 
+fisticuffs
 ```
 ლ(｀ー´ლ)
 ```
-fisticuffs
 
+boxing
 ```
 ლ(•́•́ლ)
 ```
-boxing
 
+fight
 ```
 (ง'̀-'́)ง
 ```
-fight
 
+excited pointing
 ```
 ☜(⌒▽⌒)☞
 ```
-excited pointing
 
 ## Laughing & Smiling
 
+big happy smile
 ```
 (≧◡≦)
 ```
-big happy smile
 
+laughing with joy
 ```
 ヽ(´▽｀)ノ
 ```
-laughing with joy
 
+wink and smile
 ```
 (◠‿◕)
 ```
-wink and smile
 
+flower smile
 ```
 (◠‿◠✿)
 ```
-flower smile
 
+innocent face
 ```
 ʘ‿ʘ
 ```
-innocent face
 
+cute face with big eyes
 ```
 (｡◕‿◕｡)
 ```
-cute face with big eyes
 
+happy face
 ```
 ヽ(´▽`)/
 ```
-happy face
 
+kitty emote
 ```
 ᵒᴥᵒ#
 ```
-kitty emote
 
+devious smile
 ```
 ಠ‿ಠ
 ```
-devious smile
 
+4chan emoticon
 ```
 ( ͡° ͜ʖ ͡°)
 ```
-4chan emoticon
 
+cute bear
 ```
 ʕ•ᴥ•ʔ
 ```
-cute bear
 
+squinting bear
 ```
 ʕᵔᴥᵔʔ
 ```
-squinting bear
 
+fido
 ```
 V•ᴥ•V
 ```
-fido
 
+meow
 ```
 ฅ^•ﻌ•^ฅ
 ```
-meow
 
 ## Encouraging
 
+you can do it!
 ```
 (ง •̀_•́)ง
 ```
-you can do it!
 
+contentment
 ```
 ∩(︶▽︶)∩
 ```
-contentment
 
+cheering you on
 ```
 (๑•̀ㅂ•́)و✧
 ```
-cheering you on
 
+you got this!
 ```
 (☞ﾟヮﾟ)☞
 ```
-you got this!
 
+sparkle of encouragement
 ```
 ✧◝(⁰▿⁰)◜✧
 ```
-sparkle of encouragement
 
+winning!
 ```
 (•̀ᴗ•́)و ̑̑
 ```
-winning!
 
 ## Celebratory
 
+dancing with joy
 ```
 ♪♪ ヽ(ˇ∀ˇ )ゞ
 ```
-dancing with joy
 
+throwing hands up in celebration
 ```
 ٩(◕‿◕｡)۶
 ```
-throwing hands up in celebration
 
+spreading joy
 ```
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ```
-spreading joy
 
+strutting happily
 ```
 ᕕ( ᐛ )ᕗ
 ```
-strutting happily
 
+basking in glory
 ```
 ヽ(´ー｀)ノ
 ```
-basking in glory
 
+cheers
 ```
 （ ^_^）o自自o（^_^ ）
 ```
-cheers
 
+dancing
 ```
 ┌(ㆆ㉨ㆆ)ʃ
 ```
-dancing
 
+shark face / jagged mustache
 ```
 ( ˇ෴ˇ )
 ```
-shark face / jagged mustache
 
+emo dance
 ```
 ヾ(-_- )ゞ
 ```
-emo dance
 
+dance
 ```
 ♪♪ ヽ(ˇ∀ˇ )ゞ
 ```
-dance
 
+opera
 ```
 ヾ(´〇`)ﾉ♪♪♪
 ```
-opera
 
+listening to headphones
 ```
 ◖ᵔᴥᵔ◗ ♪ ♫
 ```
-listening to headphones
 
+whistling / music
 ```
 (っ•́｡•́)♪♬
 ```
-whistling / music
 
+TGIF
 ```
 "ヽ(´▽｀)ノ"
 ```
-TGIF
 
 ## Love & Affection
 
+love in eyes
 ```
 (♡˙︶˙♡)
 ```
-love in eyes
 
+blowing a kiss
 ```
 ( ˘ ³˘)♥
 ```
-blowing a kiss
 
+loving smile
 ```
 (´｡• ᵕ •｡`) ♡
 ```
-loving smile
 
+love
 ```
 ♥‿♥
 ```
-love
 
+touchy feely
 ```
 ԅ(≖‿≖ԅ)
 ```
-touchy feely
 
+love
 ```
 -`ღ´-
 ```
-love
 
 ## Concerned & Negative
 
+reddit disapproval face
 ```
 ಠ_ಠ
 ```
-reddit disapproval face
 
+table flip / flipping table
 ```
 (╯°□°）╯︵ ┻━┻
 ```
-table flip / flipping table
 
+put the table back
 ```
 ┬─┬﻿ ノ( ゜-゜ノ)
 ```
-put the table back
 
+tidy up / dust the table
 ```
 ┬─┬⃰͡ (ᵔᵕᵔ͜ )
 ```
-tidy up / dust the table
 
+double flip / double angry
 ```
 ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
 ```
-double flip / double angry
 
+GTFO bear
 ```
 ʕ •`ᴥ•´ʔ
 ```
-GTFO bear
 
+surprised / loudmouthed
 ```
 （　ﾟДﾟ）
 ```
-surprised / loudmouthed
 
+shrug face
 ```
 ¯\_(ツ)_/¯
 ```
-shrug face
 
+meh
 ```
 ¯\(°_o)/¯
 ```
-meh
 
+angry face
 ```
 (╬ ಠ益ಠ)
 ```
-angry face
 
+at what cost
 ```
 ლ(ಠ益ಠლ)
 ```
-at what cost
 
+running
 ```
 ε=ε=ε=┌(;*´Д`)ﾉ
 ```
-running
 
+tripping out
 ```
 q(❂‿❂)p
 ```
-tripping out
 
+discombobulated
 ```
 ⊙﹏⊙
 ```
-discombobulated
 
+sad and confused
 ```
 ¯\_(⊙︿⊙)_/¯
 ```
-sad and confused
 
+japanese lion face
 ```
 °‿‿°
 ```
-japanese lion face
 
+confused
 ```
 ¿ⓧ_ⓧﮌ
 ```
-confused
 
+confused scratch
 ```
 (⊙.☉)7
 ```
-confused scratch
 
+worried
 ```
 (´･_･`)
 ```
-worried
 
+dear god why
 ```
 щ（ﾟДﾟщ）
 ```
-dear god why
 
+staring
 ```
 ٩(๏_๏)۶
 ```
-staring
 
+pretty eyes
 ```
 ఠ_ఠ
 ```
-pretty eyes
 
+zoned
 ```
 (⊙_◎)
 ```
-zoned
 
+crazy
 ```
 ミ●﹏☉ミ
 ```
-crazy
 
+trolling
 ```
 ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
 ```
-trolling
 
+angry troll
 ```
 ヽ༼ ಠ益ಠ ༽ﾉ
 ```
-angry troll
 
+fuck it
 ```
 t(-_-t)
 ```
-fuck it
 
+sad face
 ```
 (ಥ⌣ಥ)
 ```
-sad face
 
+flip friend
 ```
 (ノಠ ∩ಠ)ノ彡( \o°o)\
 ```
-flip friend
 
+cry face
 ```
 ｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
 ```
-cry face
 
+cry troll
 ```
 ༼ ༎ຶ ෴ ༎ຶ༽
 ```
-cry troll
 
+sleepy
 ```
 눈_눈
 ```
-sleepy
 
+angry birds
 ```
 ( ఠൠఠ )ﾉ
 ```
-angry birds
 
+no support
 ```
 乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
 ```
-no support
 
+shy
 ```
 (๑•́ ₃ •̀๑)
 ```
-shy
 
+fly away
 ```
 ⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
 ```
-fly away
 
+careless
 ```
 ◔_◔
 ```
-careless
 
+winnie the pooh
 ```
 ʕ •́؈•̀ ₎
 ```
-winnie the pooh
 
+winnie the pooh
 ```
 ʕ •́؈•̀)
 ```
-winnie the pooh
 
+questionable / dislike
 ```
 (Ծ‸ Ծ)
 ```
-questionable / dislike
 
+zombie
 ```
 [¬º-°]¬
 ```
-zombie
 
+chasing / running away
 ```
 ''⌐(ಠ۾ಠ)¬'''
 ```
-chasing / running away
 
+injured
 ```
 (҂◡_◡)
 ```
-injured
 
+creeper
 ```
 ƪ(ړײ)‎ƪ
 ```
-creeper
 
+eye roll
 ```
 ⥀.⥀
 ```
-eye roll
 
+flying
 ```
 ح˚௰˚づ
 ```
-flying
 
+things that can't be unseen
 ```
 ♨_♨
 ```
-things that can't be unseen
 
+looking down
 ```
 (._.)
 ```
-looking down
 
+im a hugger
 ```
 (⊃｡•́‿•̀｡)⊃
 ```
-im a hugger
 
+wizard
 ```
 (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 ```
-wizard
 
+yum
 ```
 (っ˘ڡ˘ς)
 ```
-yum
 
+judging
 ```
 ( ఠ ͟ʖ ఠ)
 ```
-judging
 
+tired / older
 ```
 ( ͡ಠ ʖ̯ ͡ಠ)
 ```
-tired / older
 
+dislike / depressed
 ```
 ( ಠ ʖ̯ ಠ)
 ```
-dislike / depressed
 
+hitchhiking
 ```
 (งツ)ว
 ```
-hitchhiking
 
+satisfied
 ```
 (◠﹏◠)
 ```
-satisfied
 
+sad and crying
 ```
 (ᵟຶ︵ ᵟຶ)
 ```
-sad and crying
 
+stunna shades
 ```
 (っ▀¯▀)つ
 ```
-stunna shades
 
+chicken
 ```
 ʚ(•｀
 ```
-chicken
 
+barf
 ```
 (´ж｀ς)
 ```
-barf
 
+fuck off
 ```
 (° ͜ʖ͡°)╭∩╮
 ```
-fuck off
 
+smiley toast
 ```
 ʕʘ̅͜ʘ̅ʔ
 ```
-smiley toast
 
+exorcism
 ```
 ‍ح(•̀ж•́)ง †
 ```
-exorcism
 
+taking a dump / straining
 ```
 (⩾﹏⩽)
 ```
-taking a dump / straining
 
+dab
 ```
 ヽ( •_)ᕗ
 ```
-dab
 
+wave dance
 ```
 ~(^-^)~
 ```
-wave dance
 
+happy hug
 ```
 \(ᵔᵕᵔ)/
 ```
-happy hug
 
+resting my eyes
 ```
 ᴖ̮ ̮ᴖ
 ```
-resting my eyes
 
+peepers
 ```
 ಠಠ
 ```
-peepers
 
+judgemental
 ```
 {ಠʖಠ}
 ```
-judgemental
 
+crying face
 ```
 ಥ_ಥ
 ```
-crying face
 
+happy crying face
 ```
 ಥ‿ಥ
 ```
-happy crying face
 
+breakdown
 ```
 ಥ﹏ಥ
 ```
-breakdown
 
+disagree
 ```
 ٩◔̯◔۶
 ```
-disagree
 
+flexing
 ```
 ᕙ(⇀‸↼‶)ᕗ
 ```
-flexing
 
+do you even lift bro?
 ```
 ᕦ(ò_óˇ)ᕤ
 ```
-do you even lift bro?
 
+feel perky
 ```
 (`･ω･´)
 ```
-feel perky
 
 ## Additional Positive Emoticons
 
+blushing smile
 ```
 (o^ ^o)
 ```
-blushing smile
 
+flexing with a smile
 ```
 ᕦ( ᐛ )ᕡ
 ```
-flexing with a smile
 
+flower happy face
 ```
 (✿◠‿◠)
 ```
-flower happy face
 
+simple happy face
 ```
 (•‿•)
 ```
-simple happy face
 
+sparkly eyes
 ```
 (◕‿◕)
 ```
-sparkly eyes
 
+jazz hands
 ```
 ヽ(•‿•)ノ
 ```
-jazz hands
 
+cute sparkly eyes
 ```
 ◕‿◕
 ```
-cute sparkly eyes
 
+arms up in excitement
 ```
 ＼(＾▽＾)／
 ```
-arms up in excitement
 
+dancing happily
 ```
 (~˘▾˘)~
 ```
-dancing happily
 
+waving excitedly
 ```
 (/◕ヮ◕)/
 ```
-waving excitedly
 
+excited happy face
 ```
 ヽ(^◇^*)/
 ```
-excited happy face
 
+superhero
 ```
 (•̀ᴗ•́)൬༉
 ```
-superhero
 
+sending love
 ```
 (˵ ͡~ ͜ʖ ͡°˵)ノ⌒♡
 ```
-sending love
 
+contented smile
 ```
 ^ᴗ^
 ```
-contented smile
 
+determined
 ```
 (•̀o•́)ง
 ```
-determined
 
+bear hug
 ```
 ʕっ•ᴥ•ʔっ
 ```
-bear hug
 
+pointing with enthusiasm
 ```
 (☞ﾟ∀ﾟ)☞
 ```
-pointing with enthusiasm
 
+surprised happiness
 ```
 (˙ᵒ˙)
 ```
-surprised happiness
 
+dancing together
 ```
 (´⌣`ʃƪ)
 ```
-dancing together
 
+casting happiness spell
 ```
 (•̀ᴗ•́)━☆ﾟ.*･｡ﾟ
 ```
-casting happiness spell
 
+strong and proud
 ```
 ᕙ( : ˘ ∧ ˘ : )ᕗ
 ```
-strong and proud
 
+throwing confetti
 ```
 (ﾉ´ヮ`)ﾉ*: ･ﾟ
 ```
-throwing confetti
 
+giggling
 ```
 (๑>ᴗ<๑)
 ```
-giggling
 
+high energy celebration
 ```
 ٩(^‿^)۶
 ```
-high energy celebration
