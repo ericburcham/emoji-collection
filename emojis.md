@@ -2,7 +2,7 @@
 
 ## Handshakes & Greetings
 
-(づ￣ ³￣)づ━☆゜.*
+(づ￣ ³￣)づ━☆゜.* 
 magical greeting
 
 (つ≧▽≦)つ
