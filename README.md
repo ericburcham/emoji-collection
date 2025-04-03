@@ -8,6 +8,10 @@ Meanwhile, in Japan, a more elaborate form of text-based expression was evolving
 
 What makes these string-based emojis so special is that they transmit emotional context through typography rather than imagery, preserving the textual nature of communication while adding emotional richness. They represent a beautiful intersection of linguistic expression and visual creativity, allowing us to infuse our digital conversations with personality using only our keyboards.
 
+[Browse the complete emoji collection](emojis.md)
+
+
+
 ## Categories and Their Uses
 
 ### Handshakes & Greetings
