@@ -2,478 +2,1085 @@
 
 ## Handshakes & Greetings
 
-(づ￣ ³￣)づ━☆゜.*
 magical greeting
+```
+(づ￣ ³￣)づ━☆゜.*
+```
+&nbsp;<br>&nbsp;
 
-(つ≧▽≦)つ
+
 excited greeting
+```
+(つ≧▽≦)つ
+```
+&nbsp;<br>&nbsp;
 
-(੭ˊᵕˋ)੭
+
 tiny happy wave
+```
+(੭ˊᵕˋ)੭
+```
+&nbsp;<br>&nbsp;
 
-(づ｡◕‿‿◕｡)づ
+
 stranger danger
+```
+(づ｡◕‿‿◕｡)づ
+```
+&nbsp;<br>&nbsp;
 
-(づ￣ ³￣)づ
+
 hugger
+```
+(づ￣ ³￣)づ
+```
+&nbsp;<br>&nbsp;
 
-⊂(◉‿◉)つ
+
 kirby
+```
+⊂(◉‿◉)つ
+```
+&nbsp;<br>&nbsp;
+
 
 ## High Fives & Fist Bumps
 
-(￣▽￣)ノ"(^_^)
 high five
+```
+(￣▽￣)ノ"(^_^)
+```
+&nbsp;<br>&nbsp;
 
-(ง •̀_•́)งﾉ(° -°ﾉ)
+
 fist bump
+```
+(ง •̀_•́)งﾉ(° -°ﾉ)
+```
+&nbsp;<br>&nbsp;
 
-( •̀ω•́ )✧
+
 victory
+```
+( •̀ω•́ )✧
+```
+&nbsp;<br>&nbsp;
 
-ლ(｀ー´ლ)
+
 fisticuffs
+```
+ლ(｀ー´ლ)
+```
+&nbsp;<br>&nbsp;
 
-ლ(•́•́ლ)
+
 boxing
+```
+ლ(•́•́ლ)
+```
+&nbsp;<br>&nbsp;
 
-(ง'̀-'́)ง
+
 fight
+```
+(ง'̀-'́)ง
+```
+&nbsp;<br>&nbsp;
 
-☜(⌒▽⌒)☞
+
 excited pointing
+```
+☜(⌒▽⌒)☞
+```
+&nbsp;<br>&nbsp;
+
 
 ## Laughing & Smiling
 
-(≧◡≦)
 big happy smile
+```
+(≧◡≦)
+```
+&nbsp;<br>&nbsp;
 
-ヽ(´▽｀)ノ
+
 laughing with joy
+```
+ヽ(´▽｀)ノ
+```
+&nbsp;<br>&nbsp;
 
-(◠‿◕)
+
 wink and smile
+```
+(◠‿◕)
+```
+&nbsp;<br>&nbsp;
 
-(◠‿◠✿)
+
 flower smile
+```
+(◠‿◠✿)
+```
+&nbsp;<br>&nbsp;
 
-ʘ‿ʘ
+
 innocent face
+```
+ʘ‿ʘ
+```
+&nbsp;<br>&nbsp;
 
-(｡◕‿◕｡)
+
 cute face with big eyes
+```
+(｡◕‿◕｡)
+```
+&nbsp;<br>&nbsp;
 
-ヽ(´▽`)/
+
 happy face
+```
+ヽ(´▽`)/
+```
+&nbsp;<br>&nbsp;
 
-ᵒᴥᵒ#
+
 kitty emote
+```
+ᵒᴥᵒ#
+```
+&nbsp;<br>&nbsp;
 
-ಠ‿ಠ
+
 devious smile
+```
+ಠ‿ಠ
+```
+&nbsp;<br>&nbsp;
 
-( ͡° ͜ʖ ͡°)
+
 4chan emoticon
+```
+( ͡° ͜ʖ ͡°)
+```
+&nbsp;<br>&nbsp;
 
-ʕ•ᴥ•ʔ
+
 cute bear
+```
+ʕ•ᴥ•ʔ
+```
+&nbsp;<br>&nbsp;
 
-ʕᵔᴥᵔʔ
+
 squinting bear
+```
+ʕᵔᴥᵔʔ
+```
+&nbsp;<br>&nbsp;
 
-V•ᴥ•V
+
 fido
+```
+V•ᴥ•V
+```
+&nbsp;<br>&nbsp;
 
-ฅ^•ﻌ•^ฅ
+
 meow
+```
+ฅ^•ﻌ•^ฅ
+```
+&nbsp;<br>&nbsp;
+
 
 ## Encouraging
 
-(ง •̀_•́)ง
 you can do it!
+```
+(ง •̀_•́)ง
+```
+&nbsp;<br>&nbsp;
 
-∩(︶▽︶)∩
+
 contentment
+```
+∩(︶▽︶)∩
+```
+&nbsp;<br>&nbsp;
 
-(๑•̀ㅂ•́)و✧
+
 cheering you on
+```
+(๑•̀ㅂ•́)و✧
+```
+&nbsp;<br>&nbsp;
 
-(☞ﾟヮﾟ)☞
+
 you got this!
+```
+(☞ﾟヮﾟ)☞
+```
+&nbsp;<br>&nbsp;
 
-✧◝(⁰▿⁰)◜✧
+
 sparkle of encouragement
+```
+✧◝(⁰▿⁰)◜✧
+```
+&nbsp;<br>&nbsp;
 
-(•̀ᴗ•́)و ̑̑
+
 winning!
+```
+(•̀ᴗ•́)و ̑̑
+```
+&nbsp;<br>&nbsp;
+
 
 ## Celebratory
 
-♪♪ ヽ(ˇ∀ˇ )ゞ
 dancing with joy
-
-٩(◕‿◕｡)۶
-throwing hands up in celebration
-
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-spreading joy
-
-ᕕ( ᐛ )ᕗ
-strutting happily
-
-ヽ(´ー｀)ノ
-basking in glory
-
-（ ^_^）o自自o（^_^ ）
-cheers
-
-┌(ㆆ㉨ㆆ)ʃ
-dancing
-
-( ˇ෴ˇ )
-shark face / jagged mustache
-
-ヾ(-_- )ゞ
-emo dance
-
+```
 ♪♪ ヽ(ˇ∀ˇ )ゞ
+```
+&nbsp;<br>&nbsp;
+
+
+throwing hands up in celebration
+```
+٩(◕‿◕｡)۶
+```
+&nbsp;<br>&nbsp;
+
+
+spreading joy
+```
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+```
+&nbsp;<br>&nbsp;
+
+
+strutting happily
+```
+ᕕ( ᐛ )ᕗ
+```
+&nbsp;<br>&nbsp;
+
+
+basking in glory
+```
+ヽ(´ー｀)ノ
+```
+&nbsp;<br>&nbsp;
+
+
+cheers
+```
+（ ^_^）o自自o（^_^ ）
+```
+&nbsp;<br>&nbsp;
+
+
+dancing
+```
+┌(ㆆ㉨ㆆ)ʃ
+```
+&nbsp;<br>&nbsp;
+
+
+shark face / jagged mustache
+```
+( ˇ෴ˇ )
+```
+&nbsp;<br>&nbsp;
+
+
+emo dance
+```
+ヾ(-_- )ゞ
+```
+&nbsp;<br>&nbsp;
+
+
 dance
+```
+♪♪ ヽ(ˇ∀ˇ )ゞ
+```
+&nbsp;<br>&nbsp;
 
-ヾ(´〇`)ﾉ♪♪♪
+
 opera
+```
+ヾ(´〇`)ﾉ♪♪♪
+```
+&nbsp;<br>&nbsp;
 
-◖ᵔᴥᵔ◗ ♪ ♫
+
 listening to headphones
+```
+◖ᵔᴥᵔ◗ ♪ ♫
+```
+&nbsp;<br>&nbsp;
 
-(っ•́｡•́)♪♬
+
 whistling / music
+```
+(っ•́｡•́)♪♬
+```
+&nbsp;<br>&nbsp;
 
-"ヽ(´▽｀)ノ"
+
 TGIF
+```
+"ヽ(´▽｀)ノ"
+```
+&nbsp;<br>&nbsp;
+
 
 ## Love & Affection
 
-(♡˙︶˙♡)
 love in eyes
+```
+(♡˙︶˙♡)
+```
+&nbsp;<br>&nbsp;
 
-( ˘ ³˘)♥
+
 blowing a kiss
+```
+( ˘ ³˘)♥
+```
+&nbsp;<br>&nbsp;
 
-(´｡• ᵕ •｡`) ♡
+
 loving smile
+```
+(´｡• ᵕ •｡`) ♡
+```
+&nbsp;<br>&nbsp;
 
+
+love
+```
 ♥‿♥
-love
+```
+&nbsp;<br>&nbsp;
 
-ԅ(≖‿≖ԅ)
+
 touchy feely
+```
+ԅ(≖‿≖ԅ)
+```
+&nbsp;<br>&nbsp;
 
--`ღ´-
+
 love
+```
+-`ღ´-
+```
+&nbsp;<br>&nbsp;
+
 
 ## Concerned & Negative
 
-ಠ_ಠ
 reddit disapproval face
+```
+ಠ_ಠ
+```
+&nbsp;<br>&nbsp;
 
-(╯°□°）╯︵ ┻━┻
+
 table flip / flipping table
+```
+(╯°□°）╯︵ ┻━┻
+```
+&nbsp;<br>&nbsp;
 
-┬─┬﻿ ノ( ゜-゜ノ)
+
 put the table back
+```
+┬─┬﻿ ノ( ゜-゜ノ)
+```
+&nbsp;<br>&nbsp;
 
-┬─┬⃰͡ (ᵔᵕᵔ͜ )
+
 tidy up / dust the table
+```
+┬─┬⃰͡ (ᵔᵕᵔ͜ )
+```
+&nbsp;<br>&nbsp;
 
-┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
+
 double flip / double angry
+```
+┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
+```
+&nbsp;<br>&nbsp;
 
-ʕ •`ᴥ•´ʔ
+
 GTFO bear
+```
+ʕ •`ᴥ•´ʔ
+```
+&nbsp;<br>&nbsp;
 
-（　ﾟДﾟ）
+
 surprised / loudmouthed
+```
+（　ﾟДﾟ）
+```
+&nbsp;<br>&nbsp;
 
-¯\_(ツ)_/¯
+
 shrug face
+```
+¯\_(ツ)_/¯
+```
+&nbsp;<br>&nbsp;
 
-¯\(°_o)/¯
+
 meh
+```
+¯\(°_o)/¯
+```
+&nbsp;<br>&nbsp;
 
-(╬ ಠ益ಠ)
+
 angry face
+```
+(╬ ಠ益ಠ)
+```
+&nbsp;<br>&nbsp;
 
-ლ(ಠ益ಠლ)
+
 at what cost
+```
+ლ(ಠ益ಠლ)
+```
+&nbsp;<br>&nbsp;
 
-ε=ε=ε=┌(;*´Д`)ﾉ
+
 running
+```
+ε=ε=ε=┌(;*´Д`)ﾉ
+```
+&nbsp;<br>&nbsp;
 
-q(❂‿❂)p
+
 tripping out
+```
+q(❂‿❂)p
+```
+&nbsp;<br>&nbsp;
 
-⊙﹏⊙
+
 discombobulated
+```
+⊙﹏⊙
+```
+&nbsp;<br>&nbsp;
 
-¯\_(⊙︿⊙)_/¯
+
 sad and confused
+```
+¯\_(⊙︿⊙)_/¯
+```
+&nbsp;<br>&nbsp;
 
-°‿‿°
+
 japanese lion face
+```
+°‿‿°
+```
+&nbsp;<br>&nbsp;
 
-¿ⓧ_ⓧﮌ
+
 confused
+```
+¿ⓧ_ⓧﮌ
+```
+&nbsp;<br>&nbsp;
 
-(⊙.☉)7
+
 confused scratch
+```
+(⊙.☉)7
+```
+&nbsp;<br>&nbsp;
 
-(´･_･`)
+
 worried
+```
+(´･_･`)
+```
+&nbsp;<br>&nbsp;
 
-щ（ﾟДﾟщ）
+
 dear god why
+```
+щ（ﾟДﾟщ）
+```
+&nbsp;<br>&nbsp;
 
-٩(๏_๏)۶
+
 staring
+```
+٩(๏_๏)۶
+```
+&nbsp;<br>&nbsp;
 
-ఠ_ఠ
+
 pretty eyes
+```
+ఠ_ఠ
+```
+&nbsp;<br>&nbsp;
 
-(⊙_◎)
+
 zoned
+```
+(⊙_◎)
+```
+&nbsp;<br>&nbsp;
 
-ミ●﹏☉ミ
+
 crazy
+```
+ミ●﹏☉ミ
+```
+&nbsp;<br>&nbsp;
 
-༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
+
 trolling
+```
+༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
+```
+&nbsp;<br>&nbsp;
 
-ヽ༼ ಠ益ಠ ༽ﾉ
+
 angry troll
+```
+ヽ༼ ಠ益ಠ ༽ﾉ
+```
+&nbsp;<br>&nbsp;
 
+
+eff it
+```
 t(-_-t)
-fuck it
+```
+&nbsp;<br>&nbsp;
 
-(ಥ⌣ಥ)
+
 sad face
+```
+(ಥ⌣ಥ)
+```
+&nbsp;<br>&nbsp;
 
-(ノಠ ∩ಠ)ノ彡( \o°o)\
+
 flip friend
+```
+(ノಠ ∩ಠ)ノ彡( \o°o)\
+```
+&nbsp;<br>&nbsp;
 
-｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
+
 cry face
+```
+｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
+```
+&nbsp;<br>&nbsp;
 
-༼ ༎ຶ ෴ ༎ຶ༽
+
 cry troll
+```
+༼ ༎ຶ ෴ ༎ຶ༽
+```
+&nbsp;<br>&nbsp;
 
-눈_눈
+
 sleepy
+```
+눈_눈
+```
+&nbsp;<br>&nbsp;
 
-( ఠൠఠ )ﾉ
+
 angry birds
+```
+( ఠൠఠ )ﾉ
+```
+&nbsp;<br>&nbsp;
 
-乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
+
 no support
+```
+乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
+```
+&nbsp;<br>&nbsp;
 
-(๑•́ ₃ •̀๑)
+
 shy
+```
+(๑•́ ₃ •̀๑)
+```
+&nbsp;<br>&nbsp;
 
-⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
+
 fly away
+```
+⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
+```
+&nbsp;<br>&nbsp;
 
-◔_◔
+
 careless
+```
+◔_◔
+```
+&nbsp;<br>&nbsp;
 
+
+winnie the pooh
+```
 ʕ •́؈•̀ ₎
-winnie the pooh
+```
+&nbsp;<br>&nbsp;
 
-ʕ •́؈•̀)
-winnie the pooh
 
-(Ծ‸ Ծ)
 questionable / dislike
+```
+(Ծ‸ Ծ)
+```
+&nbsp;<br>&nbsp;
 
-[¬º-°]¬
+
 zombie
+```
+[¬º-°]¬
+```
+&nbsp;<br>&nbsp;
 
-''⌐(ಠ۾ಠ)¬'''
+
 chasing / running away
+```
+''⌐(ಠ۾ಠ)¬'''
+```
+&nbsp;<br>&nbsp;
 
-(҂◡_◡)
+
 injured
+```
+(҂◡_◡)
+```
+&nbsp;<br>&nbsp;
 
-ƪ(ړײ)‎ƪ
+
 creeper
+```
+ƪ(ړײ)‎ƪ
+```
+&nbsp;<br>&nbsp;
 
-⥀.⥀
+
 eye roll
+```
+⥀.⥀
+```
+&nbsp;<br>&nbsp;
 
-ح˚௰˚づ
+
 flying
+```
+ح˚௰˚づ
+```
+&nbsp;<br>&nbsp;
 
-♨_♨
+
 things that can't be unseen
+```
+♨_♨
+```
+&nbsp;<br>&nbsp;
 
-(._.)
+
 looking down
+```
+(._.)
+```
+&nbsp;<br>&nbsp;
 
-(⊃｡•́‿•̀｡)⊃
+
 im a hugger
+```
+(⊃｡•́‿•̀｡)⊃
+```
+&nbsp;<br>&nbsp;
 
-(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+
 wizard
+```
+(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+```
+&nbsp;<br>&nbsp;
 
-(っ˘ڡ˘ς)
+
 yum
+```
+(っ˘ڡ˘ς)
+```
+&nbsp;<br>&nbsp;
 
-( ఠ ͟ʖ ఠ)
+
 judging
+```
+( ఠ ͟ʖ ఠ)
+```
+&nbsp;<br>&nbsp;
 
-( ͡ಠ ʖ̯ ͡ಠ)
+
 tired / older
+```
+( ͡ಠ ʖ̯ ͡ಠ)
+```
+&nbsp;<br>&nbsp;
 
-( ಠ ʖ̯ ಠ)
+
 dislike / depressed
+```
+( ಠ ʖ̯ ಠ)
+```
+&nbsp;<br>&nbsp;
 
-(งツ)ว
+
 hitchhiking
+```
+(งツ)ว
+```
+&nbsp;<br>&nbsp;
 
-(◠﹏◠)
+
 satisfied
+```
+(◠﹏◠)
+```
+&nbsp;<br>&nbsp;
 
-(ᵟຶ︵ ᵟຶ)
+
 sad and crying
+```
+(ᵟຶ︵ ᵟຶ)
+```
+&nbsp;<br>&nbsp;
 
-(っ▀¯▀)つ
+
 stunna shades
+```
+(っ▀¯▀)つ
+```
+&nbsp;<br>&nbsp;
 
-ʚ(•｀
+
 chicken
+```
+ʚ(•｀
+```
+&nbsp;<br>&nbsp;
 
-(´ж｀ς)
+
 barf
+```
+(´ж｀ς)
+```
+&nbsp;<br>&nbsp;
 
+
+eff off
+```
 (° ͜ʖ͡°)╭∩╮
-fuck off
+```
+&nbsp;<br>&nbsp;
 
-ʕʘ̅͜ʘ̅ʔ
+
 smiley toast
+```
+ʕʘ̅͜ʘ̅ʔ
+```
+&nbsp;<br>&nbsp;
 
-ح(•̀ж•́)ง †
+
 exorcism
+```
+‍ح(•̀ж•́)ง †
+```
+&nbsp;<br>&nbsp;
 
+
+straining
+```
 (⩾﹏⩽)
-taking a dump / straining
+```
+&nbsp;<br>&nbsp;
 
-ヽ( •_)ᕗ
+
 dab
+```
+ヽ( •_)ᕗ
+```
+&nbsp;<br>&nbsp;
 
-~(^-^)~
+
 wave dance
+```
+~(^-^)~
+```
+&nbsp;<br>&nbsp;
 
-\(ᵔᵕᵔ)/
+
 happy hug
+```
+\(ᵔᵕᵔ)/
+```
+&nbsp;<br>&nbsp;
 
-ᴖ̮ ̮ᴖ
+
 resting my eyes
+```
+ᴖ̮ ̮ᴖ
+```
+&nbsp;<br>&nbsp;
 
-ಠಠ
+
 peepers
+```
+ಠಠ
+```
+&nbsp;<br>&nbsp;
 
-{ಠʖಠ}
+
 judgemental
+```
+{ಠʖಠ}
+```
+&nbsp;<br>&nbsp;
 
-ಥ_ಥ
+
 crying face
+```
+ಥ_ಥ
+```
+&nbsp;<br>&nbsp;
 
-ಥ‿ಥ
+
 happy crying face
+```
+ಥ‿ಥ
+```
+&nbsp;<br>&nbsp;
 
-ಥ﹏ಥ
+
 breakdown
+```
+ಥ﹏ಥ
+```
+&nbsp;<br>&nbsp;
 
-٩◔̯◔۶
+
 disagree
+```
+٩◔̯◔۶
+```
+&nbsp;<br>&nbsp;
 
-ᕙ(⇀‸↼‶)ᕗ
+
 flexing
+```
+ᕙ(⇀‸↼‶)ᕗ
+```
+&nbsp;<br>&nbsp;
 
-ᕦ(ò_óˇ)ᕤ
+
 do you even lift bro?
+```
+ᕦ(ò_óˇ)ᕤ
+```
+&nbsp;<br>&nbsp;
 
-(`･ω･´)
+
 feel perky
+```
+(`･ω･´)
+```
+&nbsp;<br>&nbsp;
+
 
 ## Additional Positive Emoticons
 
-(o^ ^o)
 blushing smile
+```
+(o^ ^o)
+```
+&nbsp;<br>&nbsp;
 
-ᕦ( ᐛ )ᕡ
+
 flexing with a smile
+```
+ᕦ( ᐛ )ᕡ
+```
+&nbsp;<br>&nbsp;
 
-(✿◠‿◠)
+
 flower happy face
+```
+(✿◠‿◠)
+```
+&nbsp;<br>&nbsp;
 
-(•‿•)
+
 simple happy face
+```
+(•‿•)
+```
+&nbsp;<br>&nbsp;
 
-(◕‿◕)
+
 sparkly eyes
+```
+(◕‿◕)
+```
+&nbsp;<br>&nbsp;
 
-ヽ(•‿•)ノ
+
 jazz hands
+```
+ヽ(•‿•)ノ
+```
+&nbsp;<br>&nbsp;
 
-◕‿◕
+
 cute sparkly eyes
+```
+◕‿◕
+```
+&nbsp;<br>&nbsp;
 
-＼(＾▽＾)／
+
 arms up in excitement
+```
+＼(＾▽＾)／
+```
+&nbsp;<br>&nbsp;
 
-(~˘▾˘)~
+
 dancing happily
+```
+(~˘▾˘)~
+```
+&nbsp;<br>&nbsp;
 
-(/◕ヮ◕)/
+
 waving excitedly
+```
+(/◕ヮ◕)/
+```
+&nbsp;<br>&nbsp;
 
-ヽ(^◇^*)/
+
 excited happy face
+```
+ヽ(^◇^*)/
+```
+&nbsp;<br>&nbsp;
 
-(•̀ᴗ•́)൬༉
+
 superhero
+```
+(•̀ᴗ•́)൬༉
+```
+&nbsp;<br>&nbsp;
 
-(˵ ͡~ ͜ʖ ͡°˵)ノ⌒♡
+
 sending love
+```
+(˵ ͡~ ͜ʖ ͡°˵)ノ⌒♡
+```
+&nbsp;<br>&nbsp;
 
-^ᴗ^
+
 contented smile
+```
+^ᴗ^
+```
+&nbsp;<br>&nbsp;
 
-(•̀o•́)ง
+
 determined
+```
+(•̀o•́)ง
+```
+&nbsp;<br>&nbsp;
 
-ʕっ•ᴥ•ʔっ
+
 bear hug
+```
+ʕっ•ᴥ•ʔっ
+```
+&nbsp;<br>&nbsp;
 
-(☞ﾟ∀ﾟ)☞
+
 pointing with enthusiasm
+```
+(☞ﾟ∀ﾟ)☞
+```
+&nbsp;<br>&nbsp;
 
-(˙ᵒ˙)
+
 surprised happiness
+```
+(˙ᵒ˙)
+```
+&nbsp;<br>&nbsp;
 
-(´⌣`ʃƪ)
+
 dancing together
+```
+(´⌣`ʃƪ)
+```
+&nbsp;<br>&nbsp;
 
-(•̀ᴗ•́)━☆ﾟ.*･｡ﾟ
+
 casting happiness spell
+```
+(•̀ᴗ•́)━☆ﾟ.*･｡ﾟ
+```
+&nbsp;<br>&nbsp;
 
-ᕙ( : ˘ ∧ ˘ : )ᕗ
+
 strong and proud
+```
+ᕙ( : ˘ ∧ ˘ : )ᕗ
+```
+&nbsp;<br>&nbsp;
 
-(ﾉ´ヮ`)ﾉ*: ･ﾟ
+
 throwing confetti
+```
+(ﾉ´ヮ`)ﾉ*: ･ﾟ
+```
+&nbsp;<br>&nbsp;
 
-(๑>ᴗ<๑)
+
 giggling
+```
+(๑>ᴗ<๑)
+```
+&nbsp;<br>&nbsp;
 
-٩(^‿^)۶
+
 high energy celebration
+```
+٩(^‿^)۶
+```
