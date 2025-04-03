@@ -308,7 +308,7 @@ creeper
 ⥀.⥀
 eye roll
 
-&#1581;˚௰˚づ
+<span>ح˚௰˚づ</span>
 flying
 
 ♨_♨
@@ -359,7 +359,7 @@ fuck off
 ʕʘ̅͜ʘ̅ʔ
 smiley toast
 
-‍&#1581;(•̀ж•́)ง †
+<span>‍ح(•̀ж•́)ง †</span>
 exorcism
 
 (⩾﹏⩽)
